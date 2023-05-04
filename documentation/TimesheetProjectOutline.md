@@ -1,8 +1,9 @@
 # Timesheet Project
 
 ## Architecture
-- ASP.NET backend API
+- ASP.NET backend API run via Windows services
 - Frontend open
+  - Probably WPF
   - React
     - MaterialUI
     - Bootstrap
@@ -13,7 +14,7 @@
 ## Documentation
 - [Design language](/documentation/design_language.md)
 - [API document](/documentation/api.md)
-- DB schema
+- [DB schema](/documentation/database_schema.md)
 
 ## To-dos
 - [ ] Create initial API document
